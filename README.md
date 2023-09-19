@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MikhailNv
-- 👀 I’m interested in python
 
 <!---
 MikhailNv/MikhailNv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
